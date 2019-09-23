@@ -1,0 +1,16 @@
+src
+    app
+        employees
+            employees.components.ts|.html|.css 
+                employee
+        
+        employee-list
+          employee-list.components.ys|.html|.css
+
+        shared
+          employee.service.ts
+          employee.model.ts
+
+    app.module.ts
+
+index.html (cdn path for bootstrap and font-awesome icon
